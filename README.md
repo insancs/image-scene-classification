@@ -33,6 +33,6 @@ Validation Accuracy = 82.95 <br>
 Training Loss = 0.1918 <br>
 Validation Loss = 0.6635 <br>
 
-# Plotting Accuracy and Loss
+## Plotting Accuracy and Loss
 ![model summary](images/acc_loss.png)
 
